@@ -12,9 +12,17 @@ PPT: https://docs.google.com/presentation/d/1wDKFaZKBuhpVgOsTTcc6pyscZH_0UL5H/ed
 Documentation: https://drive.google.com/file/d/125rPTuIpqq0EhGHJvEc6H7J0d2iefyu5/view?usp=sharing
 
 ## Machine Learning Elective Project: Iris Classification with KNN
-Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi
+Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi, M.Rishitha Purna, M.Amrutha reddy
+PPT Link: https://docs.google.com/presentation/d/1iwt4CmJ5_Ubp9xXix5u_-YBC3ZwPLtV55OIyR6aU40o/edit?usp=sharing
 
 Description:
+
+##Temperature Based Fan Speed Control - IOT Project
+(Jan 2021 – Jan 2021) 
+Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi, M.Rishitha Purna, M.Amrutha reddy
+PPT Link: https://docs.google.com/presentation/d/1iwt4CmJ5_Ubp9xXix5u_-YBC3ZwPLtV55OIyR6aU40o/edit?usp=sharing
+
+The Project is Monitored With Arduino and LM35 Temperature Sensor. Implemented in Tinker cad. The microcontroller controls the speed of an electric fan according to the requirement & allows dynamic and faster control and the LCD makes the system user-friendly. Sensed temperature in Celsius Scale and fan speed in percentage are simultaneously displayed on the LCD panel.
 
 
 
