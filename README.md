@@ -38,6 +38,13 @@ PPT Link: https://docs.google.com/presentation/d/1iwt4CmJ5_Ubp9xXix5u_-YBC3ZwPLt
 
 Description: The Project is Monitored With Arduino and LM35 Temperature Sensor. Implemented in Tinker cad. The microcontroller controls the speed of an electric fan according to the requirement & allows dynamic and faster control and the LCD makes the system user-friendly. Sensed temperature in Celsius Scale and fan speed in percentage are simultaneously displayed on the LCD panel.
 
+## MAP API - CLOUD COMPUTING - ELECTIVE PROJECT
+Problem Statement:
+To create an application to use any of the vendor’s cloud hosted MAP API’s to find the distance between source location and destination location.
+Input: Source Location and Destination Location.
+Output: Distance in kms and Duration in minutes.
+Link: https://docs.google.com/document/d/1tW4K5nAIe4fNesDskZ2001bPwEGuj9Aciwjcl8Mbx80/edit?usp=sharing
+
 ## Customer Segmentation Project - Done as part of Machine Learning Course 
 (Oct 2020 – Nov 2020)
 Team: Tejashwini Vadeghar, M Pranavi, Vaishnavi V
