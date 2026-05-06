@@ -12,8 +12,7 @@ PPT: https://docs.google.com/presentation/d/1wDKFaZKBuhpVgOsTTcc6pyscZH_0UL5H/ed
 Documentation: https://drive.google.com/file/d/125rPTuIpqq0EhGHJvEc6H7J0d2iefyu5/view?usp=sharing
 
 ## Machine Learning Elective Project: Iris Classification with KNN
-Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi, M.Rishitha Purna, M.Amrutha reddy
-PPT Link: https://docs.google.com/presentation/d/1iwt4CmJ5_Ubp9xXix5u_-YBC3ZwPLtV55OIyR6aU40o/edit?usp=sharing
+Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi.
 
 Description:
 
