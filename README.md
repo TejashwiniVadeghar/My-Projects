@@ -1,6 +1,6 @@
 # My-Projects
-##B.Tech Projects:
-##Image Caption Generator - Open Lab Project
+## B.Tech Projects:
+## Image Caption Generator - Open Lab Project
 (Feb 2020 – Jun 2020) 
 Team: Tejashwini Vadeghar, Pranavi Marupudi, K Chandana Priya, Harshitha V, Shruthi Y, Vaishnavi Velidi
 This project was done as part of Open Lab Project.
