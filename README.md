@@ -34,6 +34,66 @@ Customer Segmentation is the process of division of customer base into several g
 (Oct 2020 – Nov 2020)
 Description: The recommendation system is implemented using NLP technique called content-based filtering technique in python language.  Recommend users, similar movies based on what users have seen in the past and what users like to watch. To achieve this, use various parameters like movie title, cast, genre, movie overview, votes etc… This will give the user a much more personalized experience and users can get a recommendation according to his/her requirements.
 
+## ADBMS PROJECT: AGRICULTURE MANAGEMENT 
+Team: Tejashwini Vadeghar, Bhogi Rosy, Gunda Vijaya Shwetha, Gutti Sai Rajeswari
+Description:
+Through this project we intend to digitalize the ways in which the produce (crops) are sold. The
+major objective of this application is to reduce the overhead costs by directly establishing a retail
+relationship between the farmers and the consumers (public). There are no middlemen in this
+procedure, hence both the parties (farmers and public) get a reasonable cost to buy/sell.
+The project will contain a vast database which holds the information of the farmer/consumer
+(Name, farmer/user id, region, etc), the type of crops/harvest produced (crop name, quantity,
+quality) and also about the crops that are rare to come by or are very much in demand.
+Types of users: Farmers, Urban citizens.
+Project Functionality
+Functions to let the consumer/customer buy crops directly from the farmer based on certain
+criteria.
+Both the parties must have an established bank account and an account in our web application.
+The farmers who have registered will enter the information of the crops that they have in stock.
+(This makes up the database)
+Based on the consumer’s location/region the application will suggest the crops available and the
+seller (farmer). The user can also enter his/her search constraints to find their desired crop
+Once the user finds the intended crops to buy, the farmer will be contacted and a direct
+communication will be established between the two parties.
+At the completion of a successful transaction both the parties will be prompted to rate their
+experience.
+Tools / Database Category: Object Oriented Databases / EyeDB
+
+Report Link: https://drive.google.com/file/d/1RNxfdT3xaAjkTMvGY_nh3n1qPplKHR7K/view?usp=sharing
+
+## PROJECT PHASE 1 - DETECTION OF RANSOMWARE TRAFFIC BY USING ML CLASSIFIER
+TEAM: Tejashwini Vadeghar, M Pranavi, Vaishnavi V
+PROJECT GUIDE: Ms. Kavitha C R Mam
+
+DETECTION OF RANSOMWARE TRAFFIC BY USING ML CLASSIFIER
+Ransomware is a type of malware that is advanced that can spread easily and rapidly and can also
+cause huge financial losses for a great range of victims such as- Big organizations, Healthcare
+facilities, and individuals. In the modern host-based detection methods that typically requires the
+host to be infected first. This is because the anomalies can be identified as well as helps in detection
+of the malware. By the time of infection, it is already very late as some of the system’s assets
+would have been already encrypted by the malware. The network-based methods which are often
+effective in detecting ransomware attacks and the most of the ransomware families attempt to hook
+up with command, control servers before their harmful payloads get executed. So, an important
+analysis of the ransomware network traffic is often one among the key-means for the early
+detection. The fastest growth of internet usage is more in the need for security in networks which
+is controlled by the Detection System. Using ML algorithms, is important for implementing any
+IDS to detect network traffic whether it is normal or an attack. A comprehensive survey of some
+major techniques of machine learning implemented using Random Forest algorithm, Naïve Bayes,
+Logistic Regression, Decision Tree, SVM, Artificial Neural Networks. These algorithms are
+applied upon a data set and compared on the basis of their accuracy. The evaluation for the
+proposed detection system determines that it gives high detection accuracy, low false positive rate,
+validating extracted features and is high in effective tracking ransomware network.
+REPORT : 
+
+
+
+## PROJECT PHASE 2 - VOICE BASED VISION ENHANCER
+TEAM: TEJASHWINI VADEGHAR, Sushmitha Ram, Supraja, Vaishnavi 
+Project Guide - Jyotsna Mam
+
+VOICE BASED VISION ENHANCER
+
+
 
 ## M.Tech Projects:
 ## BlockChain Project 
