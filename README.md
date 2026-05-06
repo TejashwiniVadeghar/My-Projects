@@ -17,6 +17,13 @@ Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi.
 
 Dscription: Classifying flowers using Iris dataset and KNN algorithm as Setosa, Versicolor and Virginica. Training, testing and predicting the accuracy of model.
 
+## DBMS Project on Online Charity Donation System
+15th July, 2019- 25th Nov,2019
+The project deals with beneficiaries, donors, donations made, requirements etc.
+The Donors can make any sort of donations to the needy without involving any 3rd
+party agents. Admins can add and delete information. Donors can track their
+donations.
+
 ## CAB HIRING APPLICATION -  Software Engineering Project 
 (Jan 28th ,2020 – June 4th ,2020)
 Team: Tejashwini Vadeghar, Smitha Sree, Pranavi M, Srijan, Tejash, Kaushik Reddy
@@ -95,7 +102,7 @@ REPORT :
 
 
 ## PROJECT PHASE 2 - VOICE BASED VISION ENHANCER
-MAJOR PROJECT
+B.TECH MAJOR PROJECT - (Mar 10th, 2021 – May 24th, 2021)
 TEAM: TEJASHWINI VADEGHAR, Sushmitha Ram, Supraja, Vaishnavi 
 Project Guide - Jyotsna Mam
 
@@ -125,6 +132,9 @@ sound can also be transmitted to the user via earphones depending upon the ease 
 user. The output is delivered and played at intervals of a few seconds or when the
 recognized object is different from the previous one, whichever is earliest. Hence, it
 provides an easy, reliable and cost-effective solution.
+
+PPT LINK:
+https://docs.google.com/presentation/d/1DiwF541yFo-wgkpthXcIJ389MUwd9mZX/edit?usp=sharing&ouid=106690434467849909576&rtpof=true&sd=true
 
 IEEE paper was also published later under the supervision of the Guide.
 Vision Enhancer: A Voice-Driven System for Obstacle Detection
