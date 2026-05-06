@@ -15,11 +15,12 @@ Documentation: https://drive.google.com/file/d/125rPTuIpqq0EhGHJvEc6H7J0d2iefyu5
 Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi.
 (May 19th, 2020 – June 12th, 2020)
 
-Dscription: Classifying flowers using Iris dataset and KNN algorithm as Setosa, Versicolor and Virginica. Training, testing and predicting the accuracy of model.
+Description: Classifying flowers using Iris dataset and KNN algorithm as Setosa, Versicolor and Virginica. Training, testing and predicting the accuracy of model.
 
 ## DBMS Project on Online Charity Donation System
 15th July, 2019- 25th Nov,2019
-The project deals with beneficiaries, donors, donations made, requirements etc.
+Team - Tejashwini Vadeghar, Smitha Sree, Pranavi M
+Description: The project deals with beneficiaries, donors, donations made, requirements etc.
 The Donors can make any sort of donations to the needy without involving any 3rd
 party agents. Admins can add and delete information. Donors can track their
 donations.
@@ -27,7 +28,7 @@ donations.
 ## CAB HIRING APPLICATION -  Software Engineering Project 
 (Jan 28th ,2020 – June 4th ,2020)
 Team: Tejashwini Vadeghar, Smitha Sree, Pranavi M, Srijan, Tejash, Kaushik Reddy
-A web application where a user can login and book a cab, manage profile, and have a safe and reliable journey by just making a few clicks, with great offers through Promo codes and easy payment digitally or by cash. The user can also view the rental payment history.
+Description: A web application where a user can login and book a cab, manage profile, and have a safe and reliable journey by just making a few clicks, with great offers through Promo codes and easy payment digitally or by cash. The user can also view the rental payment history.
 
 
 ## Temperature Based Fan Speed Control - IOT Project
@@ -40,7 +41,7 @@ Description: The Project is Monitored With Arduino and LM35 Temperature Sensor. 
 ## Customer Segmentation Project - Done as part of Machine Learning Course 
 (Oct 2020 – Nov 2020)
 Team: Tejashwini Vadeghar, M Pranavi, Vaishnavi V
-Collected dataset from Kaggle. Used clustering algorithm called K-means clustering. Implemented using K-Means Algorithm in R language. 
+Description: Collected dataset from Kaggle. Used clustering algorithm called K-means clustering. Implemented using K-Means Algorithm in R language. 
 
 Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits. Customer Segmentation can strategize their marketing techniques more efficiently and minimize the possibility of risk to their investment.
 
@@ -97,7 +98,7 @@ Logistic Regression, Decision Tree, SVM, Artificial Neural Networks. These algor
 applied upon a data set and compared on the basis of their accuracy. The evaluation for the
 proposed detection system determines that it gives high detection accuracy, low false positive rate,
 validating extracted features and is high in effective tracking ransomware network.
-REPORT : 
+REPORT LINK: 
 
 
 
