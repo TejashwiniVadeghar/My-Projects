@@ -16,12 +16,12 @@ Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi.
 
 Description:
 
-##Temperature Based Fan Speed Control - IOT Project
+## Temperature Based Fan Speed Control - IOT Project
 (Jan 2021 – Jan 2021) 
 Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi, M.Rishitha Purna, M.Amrutha reddy
 PPT Link: https://docs.google.com/presentation/d/1iwt4CmJ5_Ubp9xXix5u_-YBC3ZwPLtV55OIyR6aU40o/edit?usp=sharing
 
-The Project is Monitored With Arduino and LM35 Temperature Sensor. Implemented in Tinker cad. The microcontroller controls the speed of an electric fan according to the requirement & allows dynamic and faster control and the LCD makes the system user-friendly. Sensed temperature in Celsius Scale and fan speed in percentage are simultaneously displayed on the LCD panel.
+Description: The Project is Monitored With Arduino and LM35 Temperature Sensor. Implemented in Tinker cad. The microcontroller controls the speed of an electric fan according to the requirement & allows dynamic and faster control and the LCD makes the system user-friendly. Sensed temperature in Celsius Scale and fan speed in percentage are simultaneously displayed on the LCD panel.
 
 
 
