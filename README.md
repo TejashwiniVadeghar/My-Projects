@@ -82,8 +82,6 @@ Description: To create a cryptosystem that encrypts a source file using multiple
 PPT link: https://docs.google.com/presentation/d/1IQDyOafhHU5xQzk4i1esGhJzctAkdOZEMXXFmZ7XqTM/edit?usp=sharing
 
 
-Report Link: https://docs.google.com/presentation/d/1IQDyOafhHU5xQzk4i1esGhJzctAkdOZEMXXFmZ7XqTM/edit?usp=sharing
-
 ## PROJECT PHASE 1 - DETECTION OF RANSOMWARE TRAFFIC BY USING ML CLASSIFIER
 TEAM: Tejashwini Vadeghar, M Pranavi, Vaishnavi V
 PROJECT GUIDE: Ms. Kavitha C R Mam
