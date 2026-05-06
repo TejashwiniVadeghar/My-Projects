@@ -2,7 +2,7 @@
 ## B.Tech Projects:
 ## Image Caption Generator - Open Lab Project
 (Feb 2020 – Jun 2020) 
-Team: Tejashwini Vadeghar, Pranavi Marupudi, K Chandana Priya, Harshitha V, Shruthi Y, Vaishnavi Velidi
+Team: Tejashwini Vadeghar, Pranavi M, K Chandana Priya, Harshitha V, Shruthi Y, Vaishnavi V
 
 This project was done as part of Open Lab Project.
 
@@ -14,7 +14,7 @@ Documentation: https://drive.google.com/file/d/125rPTuIpqq0EhGHJvEc6H7J0d2iefyu5
 ## Machine Learning Elective Project: Iris Classification with KNN
 Team : Tejashwini Vadeghar, Pranavi Marupudi, Vaishnavi Velidi.
 
-Description:
+Description: ML Project for Iris Classification using KNN
 
 ## Temperature Based Fan Speed Control - IOT Project
 (Jan 2021 – Jan 2021) 
@@ -23,9 +23,19 @@ PPT Link: https://docs.google.com/presentation/d/1iwt4CmJ5_Ubp9xXix5u_-YBC3ZwPLt
 
 Description: The Project is Monitored With Arduino and LM35 Temperature Sensor. Implemented in Tinker cad. The microcontroller controls the speed of an electric fan according to the requirement & allows dynamic and faster control and the LCD makes the system user-friendly. Sensed temperature in Celsius Scale and fan speed in percentage are simultaneously displayed on the LCD panel.
 
+## Customer Segmentation Project - Done as part of Machine Learning Course 
+(Oct 2020 – Nov 2020)
+Team: Tejashwini Vadeghar, M Pranavi, Vaishnavi V
+Collected dataset from Kaggle. Used clustering algorithm called K-means clustering. Implemented using K-Means Algorithm in R language. 
 
+Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits. Customer Segmentation can strategize their marketing techniques more efficiently and minimize the possibility of risk to their investment.
+
+## Movie Recommendation System - NLP Project
+(Oct 2020 – Nov 2020)
+Description: The recommendation system is implemented using NLP technique called content-based filtering technique in python language.  Recommend users, similar movies based on what users have seen in the past and what users like to watch. To achieve this, use various parameters like movie title, cast, genre, movie overview, votes etc… This will give the user a much more personalized experience and users can get a recommendation according to his/her requirements.
 
 
 ## M.Tech Projects:
 ## BlockChain Project 
+Team: Tejashwini Vadeghar, Neeharika Vadeghar, Yasmeen Begum, Khizareen Taj, Greeshma
 Link : https://drive.google.com/file/d/1Qn8qURyG029B5cQHbv-byX4nA874sQ1z/view?usp=drive_link
