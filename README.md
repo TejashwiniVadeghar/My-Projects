@@ -98,7 +98,7 @@ Logistic Regression, Decision Tree, SVM, Artificial Neural Networks. These algor
 applied upon a data set and compared on the basis of their accuracy. The evaluation for the
 proposed detection system determines that it gives high detection accuracy, low false positive rate,
 validating extracted features and is high in effective tracking ransomware network.
-REPORT LINK: 
+REPORT LINK: https://drive.google.com/file/d/1KWEQRJlcjzaxrqaMIg6QCxGw9dT2GDpe/view?usp=sharing
 
 
 
@@ -136,6 +136,7 @@ provides an easy, reliable and cost-effective solution.
 
 PPT LINK:
 https://docs.google.com/presentation/d/1DiwF541yFo-wgkpthXcIJ389MUwd9mZX/edit?usp=sharing&ouid=106690434467849909576&rtpof=true&sd=true
+REPORT LINK: https://drive.google.com/file/d/1F7nYquUwjwmua9wQvPxYj4jmYfjN8nZB/view?usp=sharing
 
 IEEE paper was also published later under the supervision of the Guide.
 Vision Enhancer: A Voice-Driven System for Obstacle Detection
