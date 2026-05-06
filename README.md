@@ -148,3 +148,32 @@ Paper Link: - https://ieeexplore.ieee.org/document/10847032
 ## BlockChain Project 
 Team: Tejashwini Vadeghar, Neeharika Vadeghar, Yasmeen Begum, Khizareen Taj, Greeshma
 Link : https://drive.google.com/file/d/1Qn8qURyG029B5cQHbv-byX4nA874sQ1z/view?usp=drive_link
+
+## MINI PROJECT
+## Stable Dream Fusion: Text-to-3D using 2D Diffusion
+
+Recent breakthroughs in text-to-image synthesis have been driven by diffusion models trained
+
+on billions of image-text pairs. Adapting this approach to 3D synthesis would require large-
+scale datasets of labeled 3D assets and efficient architectures for de-noising 3D data, neither of
+
+which currently exist. In this project, these limitations are overcome by using a pre-trained 2D
+text-to-image diffusion model to perform text-to-3D synthesis. By introducing a loss based on
+probability density distillation that enables the use of a 2D diffusion model as a prior for
+optimization of a parametric image generator. Using this loss in a Deep Dream-like procedure,
+optimization of a randomly-initialized 3D model (a Neural Radiance Field, or NeRF) via gradient
+descent such that its 2D renderings from random angles achieve a low loss. The resulting 3D
+model of the given text can be viewed from any angle, relit by arbitrary illumination, or
+composited into any 3D environment. The approach requires no 3D training data and no
+modifications to the image diffusion model, demonstrating the effectiveness of pre-trained
+image diffusion models as priors. The main aim is to generate 3-D image from 2-D text using
+Stable Diffusion to implement an AI model, Dream-Fusion that can generate 3D objects from
+text prompts. This work is based on inspiration from Google research paper:
+“DREAMFUSION: TEXT TO 3D USING 2D DIFFUSION” (By: Ben Poole, Ajay Jain,
+Jonathan T. Barron , Ben Mildenhall Google Research, UC Berkeley). Therefore, this project
+focuses on implementation of similar model mentioned in the Google Research paper by
+utilizing stable diffusion, Stable-Dream fusion is a pytorch implementation of the text-to-3D
+model. The Dream fusion is powered by the Stable Diffusion text-to-2D model.
+
+
+
