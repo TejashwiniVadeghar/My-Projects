@@ -76,6 +76,14 @@ Tools / Database Category: Object Oriented Databases / EyeDB
 
 Report Link: https://drive.google.com/file/d/1RNxfdT3xaAjkTMvGY_nh3n1qPplKHR7K/view?usp=sharing
 
+## HYBRID ENCRYPTION CRYPTOSYSTEM - Information Security Elective Project
+Team: Tejashwini Vadeghar, Marupudi Pranavi, Subhiksha J M 
+Description: To create a cryptosystem that encrypts a source file using multiple encryption algorithms [AES,RSA,DES]. Source file (normal datafile that requires security or keylog files) is divided into small parts. Each part is then encrypted using one of the algorithms mentioned above. This increases the efficiency of data security, as the best qualities of different algorithms are put together to overcome the shortcomings that are possible in the performance of a cryptosystem which uses only one algorithm for data encryption. The same is done for decryption.
+PPT link: https://docs.google.com/presentation/d/1IQDyOafhHU5xQzk4i1esGhJzctAkdOZEMXXFmZ7XqTM/edit?usp=sharing
+
+
+Report Link: https://docs.google.com/presentation/d/1IQDyOafhHU5xQzk4i1esGhJzctAkdOZEMXXFmZ7XqTM/edit?usp=sharing
+
 ## PROJECT PHASE 1 - DETECTION OF RANSOMWARE TRAFFIC BY USING ML CLASSIFIER
 TEAM: Tejashwini Vadeghar, M Pranavi, Vaishnavi V
 PROJECT GUIDE: Ms. Kavitha C R Mam
