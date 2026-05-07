@@ -188,5 +188,8 @@ focuses on implementation of similar model mentioned in the Google Research pape
 utilizing stable diffusion, Stable-Dream fusion is a pytorch implementation of the text-to-3D
 model. The Dream fusion is powered by the Stable Diffusion text-to-2D model.
 
+## 📋 IEEE Publication:
+Paper Title: Leveraging Machine Learning to Predict Disease Risk Levels from Multiple Eye Condition Indicators
+ 🔗https://ieeexplore.ieee.org/document/11036005
 
 
